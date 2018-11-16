@@ -7,14 +7,14 @@ country: "us"
 language: "en"
 latlng: "41.732433,-72.793609"
 humandate: "Dec 7, 2018"
-humantime: "9:00 am - 3:00 pm"
+humantime: "9:00 am - 4:00 pm"
 startdate: 2018-12-07
 enddate: 2018-12-07
-instructor: ["TBD"]
+instructor: ["Research IT"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: 52544357588
+eventbrite: 52544357588o
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
