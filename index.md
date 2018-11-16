@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "The Jackson Laboratory for Genomic Medicine"
-address: "Room 2310, 10 Discovery Dr, Farmington CT"
+address: "Holt Conference Room 1405, 10 Discovery Dr, Farmington CT"
 country: "us"
 language: "en"
 latlng: "41.732433,-72.793609"
