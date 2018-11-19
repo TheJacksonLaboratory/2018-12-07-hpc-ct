@@ -10,10 +10,10 @@ humandate: "Dec 7, 2018"
 humantime: "9:00 am - 4:00 pm"
 startdate: 2018-12-07
 enddate: 2018-12-07
-instructor: ["Research IT"]
-helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Shane Sanders", "Dave McKenzie", "Jason Macklin"]
+helper: ["Bill Flynn", "Neil Kindlon", "Sandeep Namburi"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2018-12-07-hpc-ct 
 eventbrite: 52544357588
 ---
 
