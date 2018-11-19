@@ -13,7 +13,7 @@ enddate: 2018-12-07
 instructor: ["Shane Sanders", "Dave McKenzie", "Jason Macklin"]
 helper: ["Bill Flynn", "Neil Kindlon", "Sandeep Namburi"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes: https://pad.carpentries.org/2018-12-07-hpc-ct 
+collaborative_notes: https://pad.carpentries.org/2018-12-07-hpc-ct
 eventbrite: 52544357588
 ---
 
